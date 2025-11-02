@@ -1,4 +1,4 @@
-## 🗂️ 3️⃣ CODE_OF_CONDUCT.md
+## 🗂️ CODE_OF_CONDUCT.md
 Filename: **CODE_OF_CONDUCT.md**
 ```markdown
 # Contributor Code of Conduct
