@@ -1,7 +1,7 @@
 
 ---
 
-## 🗂️ 5️⃣ simple-interest.sh
+## 🗂️ simple-interest.sh
 Filename: **simple-interest.sh**
 ```bash
 #!/bin/bash
