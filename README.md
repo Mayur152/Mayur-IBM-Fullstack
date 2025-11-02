@@ -25,7 +25,7 @@ Filename: **CODE_OF_CONDUCT.md**
 ```markdown
 # Contributor Code of Conduct
 
-As contributors and maintainers of this project, we pledge to make participation a harassment-free experience for everyone.
+As contributors and maintainers of this project, we pledge to make participation a harassment free experience for everyone.
 
 Examples of unacceptable behavior include:
 - Discriminatory or offensive comments
